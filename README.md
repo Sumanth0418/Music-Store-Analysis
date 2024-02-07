@@ -1,5 +1,5 @@
 
-#🎵  "Music Store Analysis" 📊
+🎵 "Music Store Analysis" 📊
 
 Using SQL, I delved into music store data to uncover patterns and trends, aiming to gain valuable insights. 🎶
 
